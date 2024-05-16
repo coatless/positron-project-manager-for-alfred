@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.kopiro.vscode-project-manager-for-alfred</string>
+	<string></string>
 	<key>category</key>
-	<string>Productivity</string>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>2B350811-49F3-403C-8DBD-30C8AB137B0D</key>
@@ -37,20 +37,20 @@
 		<array/>
 	</dict>
 	<key>createdby</key>
-	<string>kopiro</string>
+	<string>kopiro and coatless</string>
 	<key>description</key>
-	<string>Alfred integration of Project Manager for VSCode</string>
+	<string>Alfred integration of Project Manager for Positron</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Visual Studio Code - Project Manager</string>
+	<string>Positron - Project Manager</string>
 	<key>objects</key>
 	<array>
 		<dict>
 			<key>config</key>
 			<dict>
 				<key>openwith</key>
-				<string>/Applications/Visual Studio Code.app</string>
+				<string>/Applications/Positron.app</string>
 				<key>sourcefile</key>
 				<string></string>
 			</dict>
@@ -75,9 +75,9 @@
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
-				<integer>102</integer>
+				<integer>0</integer>
 				<key>keyword</key>
-				<string>code</string>
+				<string>tron</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -89,7 +89,7 @@
 				<key>runningsubtext</key>
 				<string>Please wait...</string>
 				<key>script</key>
-				<string>python query.py "{query}"</string>
+				<string></string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -97,7 +97,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Open VSCode Project</string>
+				<string>Open Positron Project</string>
 				<key>type</key>
 				<integer>8</integer>
 				<key>withspace</key>
@@ -135,7 +135,13 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>The following is an Alfred workflow that connects with the Project Manager addon to identify previously saved projects to open in Positron.
+
+https://open-vsx.org/extension/alefragnani/project-manager
+
+The workflow is based heavily on the VS Code workflow:
+
+https://github.com/kopiro/vscode-project-manager-for-alfred</string>
 	<key>uidata</key>
 	<dict>
 		<key>2B350811-49F3-403C-8DBD-30C8AB137B0D</key>
@@ -167,6 +173,6 @@
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/kopiro/vscode-project-manager-for-alfred</string>
+	<string>https://github.com/coatless/positron-project-manager-for-alfred/</string>
 </dict>
 </plist>
