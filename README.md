@@ -6,8 +6,8 @@ It supports both VSCode Project manager static projects and Git projects, sorted
 
 ![](positron-with-alfred.png)
 
-### [Download](./releases)
+You can obtain a copy by going to the [releases/](./releases) folder, press v1.0.0, and select "Raw". Once downloaded, double click to install in Alfred.
 
 ### Acknowledgements
 
-This workflow is heavily based on the [VSCode Project Manager for Alfred](https://github.com/kopiro/vscode-project-manager-for-alfred variant by [Flavio Maria De Stefano (kopiro)](https://github.com/kopiro).
+This workflow is heavily based on the [VSCode Project Manager for Alfred](https://github.com/kopiro/vscode-project-manager-for-alfred) variant by [Flavio Maria De Stefano (kopiro)](https://github.com/kopiro).
