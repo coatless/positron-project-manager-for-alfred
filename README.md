@@ -8,6 +8,12 @@ It supports both static and Git projects created using Project Manager in Positr
 
 You can obtain a copy by going to the [releases/](./releases) folder, pressing v1.0.0, and selecting "Raw". Once downloaded, double-click to install in Alfred.
 
+### Setup Video Guide
+
+For those new to Alfred, Alfred Workflows, and Positron, we highly recommend checking out this informative [YouTube video](https://youtu.be/IszYi8EFG3E) to get started quickly:
+
+[![Positron accessing Projects on macOS using an Alfred workflow for Project Manager Extension](https://i3.ytimg.com/vi/IszYi8EFG3E/maxresdefault.jpg)](https://youtu.be/IszYi8EFG3E)
+
 ### Acknowledgements
 
 This workflow is heavily based on the [VSCode Project Manager for Alfred](https://github.com/kopiro/vscode-project-manager-for-alfred) variant by [Flavio Maria De Stefano (kopiro)](https://github.com/kopiro).
