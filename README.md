@@ -10,9 +10,13 @@ You can obtain a copy by going to the [releases/](./releases) folder, pressing v
 
 ### Setup Video Guide
 
-For those new to Alfred, Alfred Workflows, and Positron, we highly recommend checking out this informative [YouTube video](https://youtu.be/IszYi8EFG3E) to get started quickly:
+For those new to Alfred, Alfred Workflows, and Positron, we highly recommend checking out this informative [YouTube video](https://youtu.be/IszYi8EFG3E?t=336) to get started quickly:
 
-[![Positron accessing Projects on macOS using an Alfred workflow for Project Manager Extension](https://i3.ytimg.com/vi/IszYi8EFG3E/maxresdefault.jpg)](https://youtu.be/IszYi8EFG3E)
+[![Positron accessing Projects on macOS using an Alfred workflow for Project Manager Extension](https://i3.ytimg.com/vi/IszYi8EFG3E/maxresdefault.jpg)](https://youtu.be/IszYi8EFG3E?t=336)
+
+> [!NOTE]
+>
+> The main portion of the install guide starts at [05:34 mins](https://youtu.be/IszYi8EFG3E?t=336). If you want background, then start the video at [00:00](https://youtu.be/IszYi8EFG3E).
 
 ### Acknowledgements
 
